@@ -56,3 +56,9 @@ You'll learn about:
 🌟**Andrew Ng** is Renowned AI researcher, co-founder of Coursera, and the founder of DeepLearning.AI. With a wealth of knowledge and expertise in the field, Andrew has played a pivotal role in popularizing AI education.
 
 🔗 Reference: "LangChain: Chat with Your Data" course. To enroll in the course or for further information, visit [deeplearning.ai](https://www.deeplearning.ai).
+
+
+# Lec 3
+![MMR - maximum marginal relevance](image.png)
+![LLM aided retrieval](image-1.png)
+![compression](image-2.png)
